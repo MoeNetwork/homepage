@@ -10,9 +10,16 @@
 }
 
 .icon-github {
-    font-family: 'octicons';
-    font-style: normal;
-    margin-left: 5px;
+    font: normal normal normal 16px/1 octicons;
+    display: inline-block;
+    text-decoration: none;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .icon-github:before {
     content: '\f00a'
