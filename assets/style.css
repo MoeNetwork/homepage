@@ -26,6 +26,8 @@ h2 { margin-bottom: 50px; font-size: 35px; }
 .spl { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; border-right: 1px solid #F39993; }
 .spr { text-align: center; }
 
+.spr img { max-width: 100%; }
+
 #page4 { background: #E9BD64; }
 
 #page3 { background: #1ABC9C; }
