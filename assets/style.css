@@ -24,6 +24,7 @@ h2 { margin-bottom: 50px; font-size: 35px; }
 #page2 { background: #ec7068; }
 .spl, .spr { width: 50%; float: left; }
 .spl { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; border-right: 1px solid #F39993; }
+.spl p { margin-bottom: 8px; }
 .spr { text-align: center; }
 
 .spr img { max-width: 100%; }
@@ -45,7 +46,6 @@ h4 del { color: #56D4BB; }
 #footpage .spr { text-align: left; }
 #footpage .in { padding: 0 60px 10px; }
 #footpage h2 { margin-bottom: 20px; font-size: 20px; }
-#footpage p { margin-bottom: 8px; }
 
 #foot { background: #283849; padding: 35px 0; line-height: 25px; }
 #foot p { padding: 0 80px; font-size: 14px; color: #89939E; }
